@@ -154,7 +154,7 @@ The supplied password-protected training PDF was uploaded to the NetworkWalks Ha
 The tool successfully detected the encrypted PDF and extracted the PDF password hash required for the next stage of the exercise.
 
 ### 📸 Evidence
-![Hash Calculator](screenshots/01-PDF1-png)
+![Hash Calculator](screenshots/01-PDF1-Hash-Calculator.png)
 
 
 
