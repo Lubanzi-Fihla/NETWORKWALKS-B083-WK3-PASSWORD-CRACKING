@@ -65,7 +65,7 @@ The command confirmed that John the Ripper was available and ready to use.
 
 ### 📸 Evidence
 
-screenshots/PM1-01-John-The-Ripper.png
+https://github.com/Lubanzi-Fihla/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/main/screenshots/PM1-01-John-The-Ripper.png
 
 ---
 
