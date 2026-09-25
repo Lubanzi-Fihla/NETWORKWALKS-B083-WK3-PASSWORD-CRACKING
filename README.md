@@ -64,6 +64,8 @@ john --help
 The command confirmed that John the Ripper was available and ready to use.
 
 ### 📸 Evidence
+![John The Ripper](./screenshots/PM1-01-John-The-Ripper.png)
+
 
 
 
@@ -95,6 +97,7 @@ hash1.txt
 ```
 
 ### 📸 Evidence
+![Hash Extraction](./screenshots/PM1-02-PDF-Hash-Extracted.png)
 
 
 
@@ -125,6 +128,7 @@ John reported:
 This confirmed that the password recovery exercise had completed successfully.
 
 ### 📸 Evidence
+![JTR Password Recovered](./screenshots/PM1-03-JTR-Password-Recovered.png)
 
 
 
@@ -165,6 +169,8 @@ The built-in training password list was used during the authorized exercise.
 The password recovery process completed successfully, demonstrating how weak or predictable passwords can be recovered using dictionary-based password testing.
 
 ### 📸 Evidence
+![Password Recoverery](./screenshots/02-PDF1-Password-Recovered-REDACTED.png)
+
 
 
 ---
@@ -176,6 +182,7 @@ After the training password was successfully recovered, I used the recovered cre
 The PDF opened successfully, confirming that the password recovery process had worked correctly.
 
 ### 📸 Evidence
+![PDF Verification](./screenshots/03-PDF1-Unlocked-Flag.png)
 
 
 
