@@ -167,8 +167,6 @@ The built-in training password list was used during the authorized exercise.
 The password recovery process completed successfully, demonstrating how weak or predictable passwords can be recovered using dictionary-based password testing.
 
 ### 📸 Evidence
-
-screenshots/02-PDF1-Password-Recovered.png
 ![Password Recovery](./screenshots/02-PDF1-Password-Recovered.png)
 
 ---
@@ -180,6 +178,7 @@ After the training password was successfully recovered, I used the recovered cre
 The PDF opened successfully, confirming that the password recovery process had worked correctly.
 
 ### 📸 Evidence
+https://github.com/Lubanzi-Fihla/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/tree/main
 ![Unlocked-Flag](./screenshots/03-PDF1-Unlocked-Flag.png)
 
 ---
