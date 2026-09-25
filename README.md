@@ -180,8 +180,7 @@ After the training password was successfully recovered, I used the recovered cre
 The PDF opened successfully, confirming that the password recovery process had worked correctly.
 
 ### 📸 Evidence
-
-screenshots/03-PDF1-Unlocked-Flag.png
+![Unlocked-Flag](./screenshots/03-PDF1-Unlocked-Flag.png)
 
 ---
 
