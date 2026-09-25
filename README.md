@@ -154,13 +154,10 @@ The supplied password-protected training PDF was uploaded to the NetworkWalks Ha
 The tool successfully detected the encrypted PDF and extracted the PDF password hash required for the next stage of the exercise.
 
 #### 📸 Evidence
-https://github.com/Lubanzi-Fihla/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/main/screenshots/01-PDF1-Hash-Calculator.png
 
 ![Hash Calculator](./screenshots/01-PDF1-Hash-Calculator.png)
 
-
 ---
-
 ## 2. NetworkWalks Password Recovery
 
 The extracted PDF hash was copied into the NetworkWalks Password Cracker.
@@ -172,6 +169,7 @@ The password recovery process completed successfully, demonstrating how weak or 
 ### 📸 Evidence
 
 screenshots/02-PDF1-Password-Recovered.png
+![Password Recovery](./screenshots/02-PDF1-Password-Recovered.png)
 
 ---
 
