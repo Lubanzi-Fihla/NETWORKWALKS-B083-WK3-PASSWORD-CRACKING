@@ -65,7 +65,7 @@ The command confirmed that John the Ripper was available and ready to use.
 
 ### 📸 Evidence
 
-https://github.com/Lubanzi-Fihla/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/blob/main/screenshots/PM1-01-John-The-Ripper.png
+
 
 ---
 
@@ -96,7 +96,7 @@ hash1.txt
 
 ### 📸 Evidence
 
-screenshots/PM1-02-PDF-Hash-Extracted.png
+
 
 ---
 
@@ -126,9 +126,7 @@ This confirmed that the password recovery exercise had completed successfully.
 
 ### 📸 Evidence
 
-screenshots/PM1-03-JTR-Password-Recovered.png
 
----
 
 # 🔹 W3-PM2: Password Cracking with NetworkWalks Tools
 
@@ -167,7 +165,7 @@ The built-in training password list was used during the authorized exercise.
 The password recovery process completed successfully, demonstrating how weak or predictable passwords can be recovered using dictionary-based password testing.
 
 ### 📸 Evidence
-![Password Recovery](./screenshots/password-recovered.png)
+
 
 ---
 
@@ -178,8 +176,8 @@ After the training password was successfully recovered, I used the recovered cre
 The PDF opened successfully, confirming that the password recovery process had worked correctly.
 
 ### 📸 Evidence
-https://github.com/Lubanzi-Fihla/NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/tree/main
-![Unlocked-Flag](./screenshots/03-PDF1-Unlocked-Flag.png)
+
+
 
 ---
 
