@@ -167,8 +167,7 @@ The built-in training password list was used during the authorized exercise.
 The password recovery process completed successfully, demonstrating how weak or predictable passwords can be recovered using dictionary-based password testing.
 
 ### 📸 Evidence
-
-![Password Recovery](./screenshots/02-PDF1-Password-Recovered.png)
+![Password Recovery](./screenshots/password-recovered.png)
 
 ---
 
